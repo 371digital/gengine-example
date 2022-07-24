@@ -1,0 +1,19 @@
+{
+  "name": "gengine-example",
+  "version": "1.0.0",
+  "description": "Gengine Example App",
+  "main": "index.js",
+  "scripts": {
+    "start": "gengine-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@371digital/gengine": "^1.0.0",
+    "@371digital/gengine-babel-transform-jsx": "^1.0.0",
+    "@371digital/gengine-dom": "^1.0.0",
+    "@371digital/gengine-scripts": "^1.0.0",
+    "three": "0.142.0"
+  },
+  "devDependencies": {}
+}
